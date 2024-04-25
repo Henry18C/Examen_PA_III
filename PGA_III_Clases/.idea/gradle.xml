@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Arbol" />
+            <option value="$PROJECT_DIR$/Curring" />
+            <option value="$PROJECT_DIR$/EJM" />
+            <option value="$PROJECT_DIR$/EJM1" />
+            <option value="$PROJECT_DIR$/EJM1/EJM" />
+            <option value="$PROJECT_DIR$/Listas" />
+            <option value="$PROJECT_DIR$/Ordenamiento" />
+            <option value="$PROJECT_DIR$/Ordenamiento/Sort" />
+            <option value="$PROJECT_DIR$/Recursion" />
+            <option value="$PROJECT_DIR$/SelectionSort" />
+            <option value="$PROJECT_DIR$/Sort" />
+            <option value="$PROJECT_DIR$/TailCall" />
+            <option value="$PROJECT_DIR$/untitled" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
